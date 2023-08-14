@@ -46,7 +46,7 @@ export default class News extends Component {
               );
             })}
           </div>
-          <div className="container">
+          <div className="container"></div>
         </div>
       </>
     );
